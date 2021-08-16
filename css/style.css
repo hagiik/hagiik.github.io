@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #ccd8ff;
+}
+
+#projects {
+  background-color: #ccd8ff;
+}
+
+.p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  min-height: 3000px;
+}
