@@ -11,6 +11,8 @@
   font-family: 'Montserrat', sans-serif;
 }
 
-body {
-  min-height: 3000px;
+@media screen and (max-width: 428px) {
+  .brand {
+    display: none;
+  }
 }
