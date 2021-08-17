@@ -11,7 +11,15 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+<<<<<<< HEAD
 body {
   /* min-height: 4000px; */
   position: relative;
 }
+=======
+@media screen and (max-width: 428px) {
+  .brand {
+    display: none;
+  }
+}
+>>>>>>> 57fe504e371addc22d8e4a9adad86cf87528e638
