@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X7 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="22.79982mm"
+   height="5.2599587mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 2280 526.00003"
+   id="svg4571"
+   sodipodi:docname="gopay.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><title
+   id="title5128">gopay</title><metadata
+   id="metadata4575"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>gopay</dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="986"
+   id="namedview4573"
+   showgrid="false"
+   showguides="true"
+   inkscape:guide-bbox="true"
+   inkscape:zoom="5.6568543"
+   inkscape:cx="50.709518"
+   inkscape:cy="12.100056"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="_1443026684752"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"><sodipodi:guide
+     position="380.72828,526.0173"
+     orientation="0,1"
+     id="guide5120"
+     inkscape:locked="false" /><sodipodi:guide
+     position="526.39923,-0.025018938"
+     orientation="0,1"
+     id="guide5122"
+     inkscape:locked="false" /><sodipodi:guide
+     position="0.018930001,125.75638"
+     orientation="1,0"
+     id="guide5124"
+     inkscape:locked="false" /><sodipodi:guide
+     position="2280.0012,-0.025018938"
+     orientation="1,0"
+     id="guide5126"
+     inkscape:locked="false" /></sodipodi:namedview>
+ <defs
+   id="defs4558">
+  <style
+   type="text/css"
+   id="style4556">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil2 {fill:#FEFEFE}
+    .fil3 {fill:#1D1819}
+    .fil1 {fill:#02AFD9}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Layer_x0020_1"
+   transform="translate(-130,-1007)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <rect
+   class="fil0"
+   width="2540"
+   height="2540"
+   id="rect4561"
+   x="0"
+   y="0"
+   style="fill:none" />
+  <g
+   id="_1443026684752">
+   <circle
+   class="fil1"
+   cx="393"
+   cy="1270"
+   r="263"
+   id="circle4563"
+   style="fill:#02afd9" />
+   <path
+   class="fil2"
+   d="m 241,1329 c 3,43 30,76 80,79 48,2 95,2 143,0 44,-3 77,-36 80,-79 2,-22 3,-44 2,-66 v 0 0 c -11,-60 -61,-62 -65,-62 h -1 v 0 0 H 312 c -6,0 -11,-5 -11,-11 v 0 c 0,-6 5,-10 11,-10 h 169 c -2,-40 -46,-48 -67,-49 h -11 v 0 c -27,-1 -55,0 -82,2 -51,4 -77,35 -80,79 -3,39 -3,78 0,117 z m 253,-23 v 15 c 0,5 -4,9 -10,9 v 0 c -5,0 -9,-4 -9,-9 v -15 c -5,-3 -8,-7 -8,-13 0,-8 8,-15 17,-15 9,0 17,7 17,15 0,6 -3,10 -7,13 z"
+   id="path4565"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+  </g>
+  <path
+   class="fil3"
+   d="m 1982,1246 v 48 c 0,0 -17,32 -73,39 -56,8 -56,-27 -52,-36 4,-9 17,-21 64,-29 49,-8 61,-22 61,-22 z m 66,-46 v 186 h -61 v -30 c -20,18 -48,35 -87,37 -122,3 -169,-132 -21,-172 35,-10 69,-7 87,-16 12,-7 15,-18 7,-28 -30,-40 -102,-24 -122,31 l -61,-15 c 16,-61 65,-88 124,-94 63,-6 134,28 134,101 z M 893,1167 c -44,0 -80,36 -80,81 0,44 36,80 80,80 44,0 80,-36 80,-80 0,-45 -36,-81 -80,-81 z m 158,-59 h -78 v 30 c -24,-21 -56,-34 -92,-34 -78,0 -142,65 -142,145 0,81 64,146 142,146 36,0 68,-13 92,-34 v 27 c 0,43 -31,77 -74,77 -36,0 -65,-7 -89,-35 l -50,45 c 41,44 82,58 140,58 84,0 151,-57 151,-153 v -42 z m 1359,-5 h -82 l -82,179 -94,-179 h -83 l 136,255 -72,148 c 0,0 83,0 83,0 0,0 194,-403 194,-403 z m -807,64 c 45,0 81,36 81,81 0,44 -36,80 -81,80 -44,0 -80,-36 -80,-80 0,-45 36,-81 80,-81 z m -157,-59 h 77 v 30 c 25,-21 57,-34 92,-34 78,0 142,65 142,145 0,81 -64,146 -142,146 -35,0 -67,-13 -92,-34 v 145 h -77 z m -206,57 c 49,0 88,38 88,84 0,47 -39,85 -88,85 -48,0 -87,-38 -87,-85 0,-46 39,-84 87,-84 z m 0,-67 c 86,0 156,68 156,151 0,84 -70,152 -156,152 -86,0 -156,-68 -156,-152 0,-83 70,-151 156,-151 z"
+   id="path4568"
+   inkscape:connector-curvature="0"
+   style="fill:#1d1819" />
+ </g>
+</svg>
