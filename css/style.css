@@ -59,3 +59,9 @@ h6 {
 		display: none;
 	}
 }
+
+@media screen and (max-width: 768px) {
+	#form {
+		background-color: #ccd8ff;
+	}
+}
