@@ -34,10 +34,7 @@ h6 {
 	display: none;
 }
 
-#search-nav {
-}
-
-/* width */
+/* widthh */
 ::-webkit-scrollbar {
 	width: 10px;
 }
@@ -57,15 +54,13 @@ h6 {
 	background: #0a4275;
 }
 
-@media screen and (max-width: 428px) {
-	.brand {
-		display: none;
-	}
-}
-
 @media screen and (max-width: 768px) {
 	#form {
 		background-color: #ccd8ff;
+	}
+
+	.brand {
+		display: none;
 	}
 }
 
