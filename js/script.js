@@ -1,4 +1,4 @@
-//Get the button
+//back to top
 let mybutton = document.getElementById("btn-back-to-top");
 
 window.onscroll = function () {
