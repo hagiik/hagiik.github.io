@@ -34,6 +34,9 @@ h6 {
 	display: none;
 }
 
+#search-nav {
+}
+
 /* width */
 ::-webkit-scrollbar {
 	width: 10px;
@@ -63,5 +66,23 @@ h6 {
 @media screen and (max-width: 768px) {
 	#form {
 		background-color: #ccd8ff;
+	}
+}
+
+@media screen and (max-width: 576px) {
+	.search-nav {
+		max-width: 175px;
+	}
+}
+
+@media screen and (max-width: 321px) {
+	.search-nav {
+		max-width: 125px;
+	}
+}
+
+@media screen and (max-width: 281px) {
+	.search-nav {
+		max-width: 100px;
 	}
 }
